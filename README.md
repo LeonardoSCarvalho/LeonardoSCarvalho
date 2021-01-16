@@ -5,9 +5,11 @@
   No momento estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
+
 <p align="left">
-  ## 🚀 Minhas Skills:
-  <strong><code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+
+## 🚀 Minhas Skills:
+<strong><code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -18,6 +20,7 @@
 </p>
 
 <p align="left">
+
 ##  🦄 Projetos: 
 <strong>Coloque as suas Projetos de trabalho.</strong>
 </p>
@@ -44,3 +47,7 @@
 </p>  
 
 
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoSCarvalho&show_icons=true)
+
+##
