@@ -46,8 +46,7 @@
 
 <p align="left">
 
-##  
-<h2>🦄 Projetos ⤵️</h2>
+##  🦄 Projetos ⤵️
 
 
 </p>
