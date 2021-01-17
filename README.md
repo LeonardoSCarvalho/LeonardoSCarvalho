@@ -19,11 +19,9 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code></strong>
 </p>
 
-<p align="left">
 
-##  🦄 Projetos: 
-<strong>Coloque as suas Projetos de trabalho.</strong>
-</p>
+
+##
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem::⤵️
@@ -44,6 +42,12 @@
 
   <a href="https://www.instagram.com/leonardocarvalh0/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leonardocarvalh0/"/></a>
-</p>  
+</p> 
+
+<p align="left">
+
+##  🦄 Projetos ⤵️
+
+</p>
 
 
