@@ -14,7 +14,7 @@
  - React 
  - Next.js
  - Reeact Native
- - Postgress
+ - Postgresql
  - MariaDB
  - MongoDB
  - Typeorm e sequelize
