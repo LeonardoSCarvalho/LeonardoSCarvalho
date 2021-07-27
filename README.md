@@ -5,7 +5,7 @@
   No momento estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
-<img src="https://scontent.fcgh20-1.fna.fbcdn.net/v/t39.30808-6/225630945_1520350921635335_2313703045266968177_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=x3CSTzp7AY0AX-XOlTU&_nc_ht=scontent.fcgh20-1.fna&oh=87d1bc27a29ac8d4dc9b82f7bfd41b7d&oe=61055ECD" min-width="400px" max-width="400px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://scontent.fcgh20-1.fna.fbcdn.net/v/t39.30808-6/225630945_1520350921635335_2313703045266968177_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_ohc=x3CSTzp7AY0AX-XOlTU&_nc_ht=scontent.fcgh20-1.fna&oh=87d1bc27a29ac8d4dc9b82f7bfd41b7d&oe=61055ECD" min-width="400px" max-width="400px" width="200px" margin-top="60px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 
