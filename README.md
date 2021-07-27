@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://scontent.fcgh20-1.fna.fbcdn.net/v/t39.30808-6/s720x720/225576127_1520348914968869_6839780495405463670_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=ZD1AmJnbHRcAX8U-dZH&_nc_ht=scontent.fcgh20-1.fna&oh=beef40c23267ea7ec91e22f8b4b1f9ce&oe=6104ABE9" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Full-Stack</strong> focado em <strong>em ambientes javascript/typescript</strong>.<br>
