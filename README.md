@@ -1,7 +1,7 @@
 
 
 <p align="left"> 
- Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Full-Stack</strong> focado em <strong>em ambientes javascript/typescript</strong>.<br>
+ Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Full-Stack</strong> focado em ambientes<strong> javascript/typescript</strong>.<br>
   No momento estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
