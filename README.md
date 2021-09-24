@@ -5,8 +5,7 @@
 </p>
 <p align="left"> 
 Sao plataformas que preparam estudantes de
- medicina pra o exame de residencia 
- Cuidando de quem cuida da 😀
+ medicina pra exames de residencia medica, com um plano de estudo eficiente voce sera capaz de ser aprovado em qualquer exame 😀
 </p>
 
 
