@@ -1,8 +1,12 @@
 
 
 <p align="left"> 
- Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Back-End</strong> na Eduq que atualmente é responsavel por dois projetos  <a href="http://medq.com.br/" alt="Medq">MedQ</a> e <a href="https://jjmentoria.com.br/" alt="jjmentoria">jjmentoria</a>. Sao plataformas que preparam estudantes de
- medicina pra o exame de redidencia 
+ Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Back-End</strong> na Eduq que atualmente é responsavel por dois projetos  <a href="http://medq.com.br/" alt="Medq">MedQ</a> e <a href="https://jjmentoria.com.br/" alt="jjmentoria">jjmentoria</a>.
+</p>
+<p align="left"> 
+Sao plataformas que preparam estudantes de
+ medicina pra o exame de residencia 
+ Cuidando de quem cuida da 😀
 </p>
 
 
