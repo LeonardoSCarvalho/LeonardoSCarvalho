@@ -1,23 +1,21 @@
 
 
 <p align="left"> 
- Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Full-Stack</strong> focado em ambientes<strong> javascript/typescript</strong>.<br>
-  No momento estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+ Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Back-End</strong> na Eduq que atualmente é responsavel por dois projetos  <a href="http://medq.com.br/" alt="Medq">MedQ</a> e <a href="https://jjmentoria.com.br/" alt="jjmentoria">jjmentoria</a> 
 </p>
 
 
 <p align="left">
 
 ## 🚀 Skills:
+ - Javascript/Typescript
  - Nodejs
  - Express
- - React 
- - Next.js
- - Reeact Native
+ - Graphql/REST
  - Postgresql
  - MariaDB
  - MongoDB
- - Typeorm e sequelize
+ - Typeorm/sequelize
  - SOLID
  - TDD
 </p>
