@@ -1,7 +1,7 @@
 
 
 <p align="left"> 
- Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Back-End</strong> na Eduq que atualmente é responsavel pelos projetos  <a href="http://medq.com.br/" alt="Medq">MedQ</a> e <a href="https://jjmentoria.com.br/" alt="jjmentoria">jjmentoria</a>.
+ Olá meu nome é Leonardo Carvalho, sou desenvolvedor <strong>Back-End</strong> na Eduq que atualmente é responsavel pelos projetos  <a href="http://medq.com.br/" alt="Medq">MedQ</a> e <a href="https://pages.aristo.com.br/experience/?utm_source=sitejj" alt="jjmentoria">Aristo</a>.
 </p>
 <p align="left"> 
 Sao plataformas que preparam estudantes de
