@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [arsito](https://aristo.com.br/)
 
-- 🌱 I’m currently learning **Clean Code, Nodejs, Nestjs, Typescript, GraphQL, DDD, TDD**
+- 🌱 I’m currently learning **Nodejs, Nestjs, Typescript, GraphQL, Clean Code, DDD, TDD**
 
 - 💬 Ask me about **Software development**
 
