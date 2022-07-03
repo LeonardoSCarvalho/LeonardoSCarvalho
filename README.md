@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Leonardo Carvalho</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
+<div align="center">
+  <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen>
+</div>
+<hr>
+
 
 - 🔭 I’m currently working on [arsito](https://aristo.com.br/)
 
