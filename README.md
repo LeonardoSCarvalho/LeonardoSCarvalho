@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Software development**
 
-- 📫 How to reach me **leo.carvalholkp@gmailc.om**
+- 📫 How to reach me **leo.carvalholkp@gmail.com**
 
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
