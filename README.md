@@ -6,7 +6,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on [arsito](https://aristo.com.br/)
+- 🔭 I’m currently working at [arsito](https://aristo.com.br/)
 
 - 🌱 I’m currently learning **Nodejs, Nestjs, Typescript, GraphQL, Clean Code, DDD, TDD**
 
