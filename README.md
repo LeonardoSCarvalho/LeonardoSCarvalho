@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-  <img src="hhttps://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
+  <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
 
 </div>
 <hr>
