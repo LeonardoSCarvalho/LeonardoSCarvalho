@@ -18,10 +18,11 @@
 <a href="https://www.leetcode.com/leocarvalholkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leocarvalholkp" height="30" width="40" /></a>
 </p>
 
-
+<div align='center'>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
+</div>
