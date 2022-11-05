@@ -6,15 +6,6 @@
 <hr>
 
 
-- 🔭 I’m currently working at [arsito](https://aristo.com.br/)
-
-- 🌱 I’m currently learning **Nodejs, Nestjs, Typescript, GraphQL, Clean Code, DDD, TDD**
-
-- 💬 Ask me about **Software development**
-
-- 📫 How to reach me **leo.carvalholkp@gmail.com**
-
-- ⚡ Fun fact **Love to learn , Think , Implement**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
