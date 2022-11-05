@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 <div align="center">
   <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" align="center" allowFullScreen>
 
@@ -16,5 +17,5 @@
 
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/LeonardoSCarvalho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoSCarvalho&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+
 </div>
