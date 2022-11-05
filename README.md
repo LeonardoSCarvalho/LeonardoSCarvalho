@@ -11,12 +11,6 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/devtsleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtsleo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo-carvalho-0988471b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-carvalho-0988471b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leocarvalholkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leocarvalholkp" height="30" width="40" /></a>
-</p>
 
 <div align='center'>
 
@@ -26,3 +20,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 </div>
+
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/devtsleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtsleo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardo-carvalho-0988471b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-carvalho-0988471b3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leocarvalholkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leocarvalholkp" height="30" width="40" /></a>
+</p>
