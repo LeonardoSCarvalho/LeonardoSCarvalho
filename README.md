@@ -2,7 +2,7 @@
   
  ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
   
- ##### loading developer skills<img src="https://media.tenor.com/wpSo-8CrXqUAAAAj/loading-loading-forever.gif" width="1%">
+ ##### loading developer skills <img src="https://media.tenor.com/wpSo-8CrXqUAAAAj/loading-loading-forever.gif" width="1.5%">
   
   <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
 
