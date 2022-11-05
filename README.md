@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <div align="center">
-  <img src="https://media.tenor.com/gGE3cePuUBMAAAAd/cristiano-ronaldo-real-madrid.gif" align="center" allowFullScreen>h
+  <img src="https://media.tenor.com/gGE3cePuUBMAAAAd/cristiano-ronaldo-real-madrid.gif" align="center" allowFullScreen>
 
 </div>
 <hr>
