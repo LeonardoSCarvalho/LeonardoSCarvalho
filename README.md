@@ -1,9 +1,11 @@
-<div align='right'>
+<div align="left">
   
  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 </div>
-<div align="center">
+
+<div align='right'>
+  
   <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
 
 </div>
