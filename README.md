@@ -4,7 +4,6 @@
   
  ##### loading skills as a developer  <img src="https://media.tenor.com/wpSo-8CrXqUAAAAj/loading-loading-forever.gif" width="1.4%">
   
-
   
   <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
   
