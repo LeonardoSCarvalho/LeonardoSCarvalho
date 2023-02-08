@@ -2,7 +2,7 @@
   
  ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <div align="center">
-<img height="200" src="https://media.tenor.com/AfmxAKK5-j4AAAAC/madara-uchiha-sharingan.gif" alt="gif with funny random cat say thank you." />
+<img height="230" src="https://media.tenor.com/AfmxAKK5-j4AAAAC/madara-uchiha-sharingan.gif" alt="gif with funny random cat say thank you." />
 </div>
   
   </a>
