@@ -1,12 +1,9 @@
 <div align="center">
   
  ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  
- ##### loading skills as a developer  <img src="https://media.tenor.com/wpSo-8CrXqUAAAAj/loading-loading-forever.gif" width="1.4%">
-  
-  
-  
-  <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" align="center" allowFullScreen>
+<div align="center">
+<img height="150" src="https://raw.githubusercontent.com/glepnir/glepnir/master/1.gif" alt="gif with funny random cat say thank you." />
+</div>
   
   </a>
 
