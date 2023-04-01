@@ -1,15 +1,4 @@
-<div align="center">
-  
- ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<div align="center">
-<img height="230" src="https://media.tenor.com/AfmxAKK5-j4AAAAC/madara-uchiha-sharingan.gif" alt="gif with funny random cat say thank you." />
-</div>
-  
-  </a>
-
-
-  
-</div>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1> <div align="center"> <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen> </div>
 
 
 <hr>
