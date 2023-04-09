@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1> <div align="center">  <img src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-dragon-ball-gif-21.gif" align="center" allowFullScreen> </div>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1> <div align="center"> </div>
 
 
 <hr>
