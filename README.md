@@ -1,6 +1,11 @@
 <div align="center">
 <img height="150" src="https://i.imgur.com/1INYrlX.gif" alt="gif with funny random" />
 </div>
+
+<p align="center">
+•
+<b><a href="https://www.linkedin.com/in/leonardo-carvalho-0988471b3/"> Contact</a></b>
+</p>
  
  <p align="center">
    ##### Languages and Tools:
