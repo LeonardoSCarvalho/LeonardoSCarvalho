@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="https://i.imgur.com/1INYrlX.gif" alt="gif with funny random" />
+<img height="250" src="https://i.imgur.com/1INYrlX.gif" alt="gif with funny random" />
 </div>
 
 <p align="center">
