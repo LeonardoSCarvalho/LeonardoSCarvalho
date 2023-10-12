@@ -1,5 +1,5 @@
 <div align="center">
-<img height="250" src="https://i.imgur.com/1INYrlX.gif](https://media.tenor.com/F8gQy_6LcMwAAAAd/dragon-ball-z-gohan-ssj2.gif" alt="gif with funny random" />
+<img height="250" src="https://media.tenor.com/F8gQy_6LcMwAAAAd/dragon-ball-z-gohan-ssj2.gif" alt="gif with funny random" />
 </div>
 
 <p align="center">
