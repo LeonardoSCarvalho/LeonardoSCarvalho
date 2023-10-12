@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-•
 <b><a href="https://www.linkedin.com/in/leonardo-carvalho-0988471b3/"> Contact</a></b>
 </p>
 
