@@ -1,6 +1,5 @@
 I'm a programmer.
 I build systems purely for fun btw.
-
 <p align="enter">
     <samp>
     <a href="https://x.com/leonrd_dev">X</a> •
