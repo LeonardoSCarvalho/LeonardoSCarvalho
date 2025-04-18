@@ -1,9 +1,13 @@
-<div align="center">
-  <h1>Hi There 👋</h1>
-  <img src="assets/img.gif" height="250" alt="Profile Image">
+I'm a programmer.
+I build systems purely for fun btw.
 
-  <br>
-
+<p align="enter">
+    <samp>
+    <a href="https://x.com/leonrd_dev">X</a> •
+    <a href="https://www.linkedin.com/in/leonardo-carvalho-0988471b3/">linkedin</a>
+    </samp>
+</p>
+<!--
   <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-carvalho-0988471b3/)
