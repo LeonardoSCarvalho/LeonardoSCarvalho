@@ -1,6 +1,5 @@
-# Hi There
-
 <div align="center">
-  <img src="assets/img.gif" height="150" alt="Profile Image">
+  <h1>Hi There 👋</h1>
+  <img src="assets/img.gif" height="350" alt="Profile Image">
 </div>
 
