@@ -3,12 +3,12 @@
   <img src="assets/img.gif" height="250" alt="Profile Image">
 
   <br>
+  <hr>
+  <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-carvalho-0988471b3/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoSCarvalho)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.carvalholkp@gmail.com)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leonrd_dev)
-
-
 </div>
 
