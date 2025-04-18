@@ -1,3 +1,6 @@
-# Hi There 
+# Hi There
 
-![Profile Image](assets/img.gif)
+<div align="center">
+  <img src="assets/img.gif" height="150" alt="Profile Image">
+</div>
+
