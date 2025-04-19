@@ -1,8 +1,8 @@
 👋 <code>Hey there! I'm Leo</code>
 
 I'm a back-end developer who loves building systems, learning new technologies, and writing clean, scalable code. I’m passionate about software architecture and always looking for ways to improve both technically and professionally.
+<h1></h1>
 
----
 <!---
 🛠️ <code>Tech Stack</code>
 
@@ -37,7 +37,10 @@ I'm a back-end developer who loves building systems, learning new technologies, 
 
 - [X](https://x.com/leonrd_dev) | [LinkedIn](https://www.linkedin.com/in/leonardo-carvalho-0988471b3/) | [Email](mailto:leo.carvalholkp@gmail.com)  
 
----
+
+<h1>
+ 
+</h1>
 
 🧑‍💻 *“Code is my playground.”*
 
