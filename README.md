@@ -43,7 +43,7 @@ I'm a back-end developer who loves building systems, learning new technologies, 
 
 </h1>
 
-🧑‍💻 *"Code is my playground."*
+☕️ *"Turning caffeine into code."*
 
 <!--
 
